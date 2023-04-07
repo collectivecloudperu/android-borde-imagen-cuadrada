@@ -1,2 +1,2 @@
-# android-borde-imagen-cuadrada
-Como Poner Borde a Una Imagen Cuadrada en Android
+# Como Poner Borde a Una Imagen Cuadrada en Android
+Tutorial: Como Ponerle Borde a Una Imagen Cuadrada en Android 
